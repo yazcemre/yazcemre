@@ -1,7 +1,12 @@
 ## Hi there 👋
-## Emre Yazıcı 👋
+## Merhaba ben Emre Yazıcı 👋
 <!--
  
 -->
 İstanbul Gelişim Üniversitesi - Mekatronik 1.Sınıf 
-Projelerimi paylaştığım sayfam @yzcsoftware 
+18 Mart 2021' kurduğum proje/ürün sayfam YZC SOFTWARE,uzaktan kontrol edilebilen led sistemlerini ve kendi tasarlamış olduğum proje/ürünlerini satışını yaptığım kendi markamdır.
+
+First Robotic Competition(FRC):Lise gençlerin matematik,mühendislik,takım ruhu,liderlik vb. becerelerini geliştirebilidği bir robot yarışmasıdır.
+*FRC Yarışmalarında Bulunduğum Takımlar:*
+*GRT #6415-2020/2022 (Y.Kaptan,Mekanik,Driver,Sosyal Medya Tasarım)
+TeamNF #9029 2023 (Sosyal Medya Tasarım)

@@ -11,7 +11,7 @@ First Robotic Competition(FRC):Lise gençlerin matematik,mühendislik,takım ruh
 
 *FRC Yarışmalarında Bulunduğum Takımlar:*
 
-*GRT #6415-2020/2022 (Y.Kaptan,Mekanik,Driver,Sosyal Medya Tasarım)
+GRT #6415-2020/2022 (Y.Kaptan,Mekanik,Driver,Sosyal Medya Tasarım)
 
 TeamNF #9029 2023 (Sosyal Medya Tasarım)
 

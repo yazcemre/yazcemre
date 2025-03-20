@@ -1,8 +1,9 @@
 ## Hi there 👋
-## Merhaba ben Emre Yazıcı 👋
+## Emre Yazıcı 👋
 <!--
  
 -->
+# Hakkkımda|About Me 
 İstanbul Gelişim Üniversitesi - Mekatronik 1.Sınıf 
 
 18 Mart 2021'de kurduğum proje/ürün sayfam YZC SOFTWARE,uzaktan kontrol edilebilen led sistemlerini ve kendi tasarlamış olduğum proje/ürünlerini satışını yaptığım kendi markamdır.

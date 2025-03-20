@@ -3,9 +3,10 @@
 <!--
  
 -->
-# Hakkkımda|About Me 
+ 
 İstanbul Gelişim Üniversitesi - Mekatronik 1.Sınıf 
 
+# Hakkımda|About me
 18 Mart 2021'de kurduğum proje/ürün sayfam YZC SOFTWARE,uzaktan kontrol edilebilen led sistemlerini ve kendi tasarlamış olduğum proje/ürünlerini satışını yaptığım kendi markamdır.
 
 First Robotic Competition(FRC):Lise gençlerin matematik,mühendislik,takım ruhu,liderlik vb. becerelerini geliştirebilidği bir robot yarışmasıdır.
